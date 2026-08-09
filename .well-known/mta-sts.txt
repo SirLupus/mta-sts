@@ -1,4 +1,4 @@
 version: STSv1
 mode: enforce
-max_age: 15552000
-mx: tritton.uberspace.de
+max_age: 86400
+mx: in-mx.uberspace.de
